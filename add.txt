@@ -1,4 +1,8 @@
 add 
 edited in local 
 newnew
+<<<<<<< HEAD
 remote
+=======
+local 
+>>>>>>> 0b1a57b (local changed)
